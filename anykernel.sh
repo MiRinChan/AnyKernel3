@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string= ShirkNeko patched kernel with SukiSU+KPM
+kernel.string=SukiSU GKI kernel with susfs
 do.devicecheck=0
 do.modules=0
 do.systemless=0
